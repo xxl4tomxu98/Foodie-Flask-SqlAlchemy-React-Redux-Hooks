@@ -1,0 +1,19 @@
+.restaurant__container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    padding: 30px;
+    margin: 30px;
+}
+
+.restaurant__left {
+     flex-grow:4;
+     justify-self:start;
+
+}
+
+.restaurant__right {
+    flex-grow:0;
+    justify-self: end;
+}

@@ -1,0 +1,12 @@
+.restaurants-list {
+    display: flex;
+    flex-basis: auto;
+    overflow-x: auto;
+    overflow-y: hidden;
+}
+
+.restaurants-list h3 {
+    margin: 0 auto;
+    font-size: 30px;
+    padding: 20px;
+}

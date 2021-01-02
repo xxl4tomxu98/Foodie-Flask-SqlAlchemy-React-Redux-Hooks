@@ -1,0 +1,25 @@
+.home-search {
+    display: flex;
+    align-items: center;
+    margin-bottom: auto;
+    padding-bottom: 80px;
+}
+
+
+.home-search input {
+    height: 50px;
+    text-align: center;
+    padding: 2px;
+    font-size: 18px;
+    width: 400px;
+    border-top: none;
+    border-bottom: none;
+    border-radius: 10px;
+    border: none;
+}
+
+.home-search__icon {
+    position: absolute;
+    padding-left: 20px;
+    font-size: large;
+}
